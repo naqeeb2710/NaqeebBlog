@@ -1,5 +1,5 @@
 import Head from 'next/head'
-import { Postcard,Categories,PostWidget } from '../Components';
+import { Postcard,Categories,PostWidget } from '../components';
 import { getPosts } from '../services';
 import { FeaturedPosts } from '../sections';
 
